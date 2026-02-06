@@ -1,5 +1,7 @@
 # 📊 Morocco Employment Predictor (RGPH 2014)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://VOTRE_APPLICATION.streamlit.app)
+
 Ce projet utilise l'Intelligence Artificielle pour modéliser et prédire les probabilités d'emploi au Maroc en se basant sur les données massives du recensement **RGPH 2014** (HCP).
 
 ## 🚀 Fonctionnalités
