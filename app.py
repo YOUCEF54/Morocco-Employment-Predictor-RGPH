@@ -22,8 +22,8 @@ traduction_noms = {
     'LIR_ECR': 'Alphabétisation',
     'net': 'Internet',
     'voit': 'Voiture',
-    'sexe_2': 'Femme',
-    'mil_2.0': 'Rural'
+    'sexe_2': 'Sexe',
+    'mil_2.0': 'Milieu'
 }
 
 st.title("📊 Simulateur de Probabilité d'Emploi")
